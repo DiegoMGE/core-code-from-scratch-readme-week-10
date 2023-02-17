@@ -12,3 +12,9 @@ All topics covered:
 - fragments
 - folder structures
 - how to create components
+
+Also, a mini proyect with React.js was created, features:
+- add a contact
+    - name
+    - email
+- delete a contact
